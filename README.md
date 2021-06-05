@@ -1,2 +1,0 @@
-# udacity-data-nanodegree
- 
